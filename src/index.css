@@ -10,14 +10,14 @@
 }
 
 body {
-  
   display: flex;
   background-image: url('/assets/Screen.png');/* Replace with your image path */
-  background-size: 1675px 1180px; /* Ensures the image covers the entire area, cropping if necessary */
+  background-size: 65.9% 99.9%; /* Ensures the image covers the entire area, cropping if necessary */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat;
   justify-content: center;
-  height: 1242px;
+  background-position: 50.4% 4000%;
+  margin-bottom: 2000px;
 }
 
 

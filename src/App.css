@@ -1,6 +1,6 @@
 .denominations {
     display:flex;
-    margin-top: 20px;
+    margin-top: 2%;
    
 }
 
@@ -19,18 +19,28 @@
     border-color: rgb(175, 194, 199);
     background-color: rgb(175, 194, 199);
     border-radius: 25px;
-    width: 40vh;
-    height: 34.3vh;
-    
-    margin-top:32px;
+    width: 27%;
+    height: 35.3vh;
+    margin-left: 0.5%; 
+    margin-top: 1.5%;
     
 }
 
 .change {
     justify-self: right;
-    width: 350px;
-    margin-left: 200px;
+    width: 40%;
+    margin-left: 25%;
     margin-top: 41px;
+}
+
+.h3-output {
+    justify-content: center;
+    margin: 1%;
+    display: flex;
+    
+    
+    
+    gap: 20px;
 }
 
 h3 {
@@ -40,37 +50,35 @@ h3 {
     width: 80px;
     height: 50px;
     text-align: center;
-    border-radius: 25%;
+    border-radius: 25px;
     padding: 22px; 
     border-width: 3px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin: 3%
     
 }
 
 input {
-    height: 50px;
+    height: 11.2%;
     width: 50%;
     margin: 0%;
     border-radius: 25px;
 }
 
-.amount-due {
-     margin: 0px;
-}
 
-.amount-received {
-    margin-right: 0px;
-}
+
+
 
 .output-side {
     
-    justify-content: center;
-    padding: 0px;
-    width: 72vh;
-    height: 50vh;
+    justify-items: center;
+    
+    width: 70%;
+    height: 90%;       /* I AM HEREREEEEE*/
     flex-wrap: wrap;
     padding-right: 0px;
+    align-items: center;
+    margin-left: 17%;
+    margin-right: 0%;
 }
 
 h1 {
@@ -78,29 +86,32 @@ h1 {
 }
 
 .sub-main {
-    margin-top: 46px;
+    margin-top: 3%;
     display:flex;
     justify-content: center;
+    height: 0%;
     
 }
 
 button {
-    height: 50px;
-    width: 150px;
-    margin: 55px;
+    height: 11%;
+    width: 40%;
+    margin: 11%;
     border-radius: 25px;
 }
 
 .organize {
     
-    
-   
-    margin: 10px;
+    justify-content: center;
+    justify-items: center;
+    width: 60%;
+    margin: 0.8%;
     
 }
 
 .organize-denom {
-    
+    height: 139.5%;
+    width: 98%;
     border-width: 1px;
     border-color: rgb(175, 194, 199);
     background-color: rgb(175, 194, 199);
@@ -114,24 +125,25 @@ button {
     border-color: rgb(175, 194, 199);
     background-color: rgb(175, 194, 199);
     display: block;
-    margin-top: 43px;
-    margin-left: -1px;
+    margin-top: 14.6%;
+    margin-right: 0.5%;
     border-radius: 25px;
-    height: 371px;
-    width: 40vh;
+    height: 78%;
+    width: 100%;
     
 }
 
 .sound-board-buttons-container {
     display: flex;
+    width: 100%;
     
 }
 .sound-board-buttons {
     /*align-content: center;*/
-    margin-left: 10%;
+    
     justify-content: center;
-    height: 200px;
-    width: 380px;
+    height: 10%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     
@@ -142,21 +154,21 @@ button {
     border-style: solid;
     border-radius: 25px;
     display: block;
-    margin-top: 0px; 
-    height: 175px;
-    margin-bottom: 200px;
+    margin-top: 11.5%; 
+    height: 0%;
     justify-content: right;
-    margin-right: 20px;
-    width: 72vh;
-    margin-left: 548px;
-    margin-bottom: 105px;
+    margin-right: 0%;
+    width: 58.7%;
+    margin-left: 34.2%;
+    margin-bottom: 10%;
     border-color: rgb(175, 194, 199);
     background-color: rgb(175, 194, 199);;
 }
 
 .currency-selector-buttons{
-    height: 250px;
+    height: 0%;
     display: flex;
-    margin: 19px;
+    
+    margin-top: 2%
     
 }

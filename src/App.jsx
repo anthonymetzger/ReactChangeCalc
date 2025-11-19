@@ -267,38 +267,38 @@ function resetArray(arr) {
         
         <div class="organize-denom">
            
-        <div class = "denominations output-side organize-denom ">
+        <div class = "denominations output-side h3-output">
           <div>
           <h2 id="twenties-label">{twentiesLabel}</h2>
-          <h3 id="twenties" data-testid="twenties">{twenties}</h3>
+          <h3  id="twenties" data-testid="twenties">{twenties}</h3>
           </div>
           <div>
           <h2 id="tens-label">{tensLabel}</h2>
-          <h3 id="tens" data-testid="tens">{tens}</h3>
+          <h3  id="tens" data-testid="tens">{tens}</h3>
           </div>
           <div>
             <h2 id="fives-label">{fivesLabel}</h2>
-            <h3 id="fives" data-testid="fives">{fives}</h3>
+            <h3  id="fives" data-testid="fives">{fives}</h3>
           </div>
           <div>
             <h2 id="ones-label">{onesLabel}</h2> 
-            <h3 id="ones" data-testid="ones">{ones}</h3>
+            <h3  id="ones" data-testid="ones">{ones}</h3>
           </div>
           <div>
             <h2 id="quarters-label">{quartersLabel}</h2>
-            <h3 id="quarters" data-testid="quarters">{quarters}</h3>
+            <h3  id="quarters" data-testid="quarters">{quarters}</h3>
           </div>  
           <div>
             <h2 id="dimes-label">{dimesLabel}</h2>
-            <h3 id="nickels" data-testid="dimes">{dimes}</h3>
+            <h3  id="nickels" data-testid="dimes">{dimes}</h3>
           </div>
           <div>
           <h2 id="nickels-label">{nickelsLabel}</h2>
-          <h3 id="dimes" data-testid="nickels">{nickels}</h3>
+          <h3  id="dimes" data-testid="nickels">{nickels}</h3>
           </div>
           <div>
           <h2 id="pennies-label">{penniesLabel}</h2>
-          <h3 id="pennies" data-testid="pennies">{pennies}</h3>
+          <h3  id="pennies" data-testid="pennies">{pennies}</h3>
 
           </div>
           
@@ -310,7 +310,7 @@ function resetArray(arr) {
         </div>
         
       </div>
-        <div class="currency-selector-container organize">
+        <div class="currency-selector-container">
         
         <div class="currency-selector-buttons">
         
