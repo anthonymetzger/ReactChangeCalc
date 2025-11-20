@@ -1,6 +1,8 @@
 import './App.css';
 import { useState } from 'react';
 
+
+let sound;
 function App() {
   let [amountDue, setAmountDue] = useState('');
   let [amountReceived, setAmountReceived] = useState('');
@@ -26,7 +28,7 @@ function App() {
 
   let [currencyLabel, setCurrencyLabel] = useState('');
 
-  let sound;
+  
 
   //declaring an object to hold the denominations of currency
   let cashierGiveBack = new Object();
@@ -198,7 +200,7 @@ function resetState() {
       sound = new Audio('/assets/Scream.m4a');
     }
     
-    
+     playSound();
     return 0;
   }
 

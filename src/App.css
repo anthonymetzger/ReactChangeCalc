@@ -29,9 +29,11 @@
 .change {
     justify-content: right;
     width: 200px;
-    margin-left: 500px;
-    margin-top: 50px;
+    margin-left: 200px;
+    margin-top: 30px;
     margin-right: 10px;
+    height: 200px;
+    width: 300px;
 }
 
 .h3-output {
@@ -74,7 +76,7 @@ input {
     justify-items: center;
     
     width:  700px;
-    height: 600px;       /* I AM HEREREEEEE*/
+    height: 575px;       /* I AM HEREREEEEE*/
     flex-wrap: wrap;
     padding-right: 0px;
     align-items: center;
