@@ -123,6 +123,8 @@ button {
     
 }
 
+
+
 .sound-board {
     border-style: solid;
     border-color: rgb(175, 194, 199);
@@ -131,7 +133,7 @@ button {
     margin-top: 30px;
     margin-right:  5px;
     border-radius: 25px;
-    height: 350px;
+    height: 337px;
     width: 499px;
     
 }
@@ -162,7 +164,7 @@ button {
     margin-top: 0px; 
     
     justify-content: right;
-    
+     height: 185px;
     width: 965px;
     margin-left: 540px;
     margin-bottom: 100px;

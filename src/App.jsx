@@ -240,6 +240,7 @@ function resetArray(arr) {
 
   return (
     <>
+    <div class="background-image">
     <div class="main">
     <h1>Change Calculator App</h1>
     <div class="sub-main">
@@ -322,7 +323,7 @@ function resetArray(arr) {
         
         </div>
       </div>
-      
+      </div>
     </>
   )
 }
